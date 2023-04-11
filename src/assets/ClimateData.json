@@ -1,0 +1,273 @@
+[
+    {
+        "food": "Nötkött",
+        "origin": "Sverige",
+        "climateFootprint": 28,
+        "info": "Per kg benfritt kött, ej tillagat"
+    },
+    {
+        "food": "Nötkött",
+        "origin": "Brasilien",
+        "climateFootprint": 41,
+        "extraClimateFootprint": 63,
+        "info": "Per kg benfritt kött, ej tillagat"
+    },
+    {
+        "food": "Lammkött",
+        "origin": "Sverige",
+        "climateFootprint": 21,
+        "info": "Per kg benfritt kött, ej tillagat"
+    },
+    {
+        "food": "Griskött",
+        "origin": "Sverige",
+        "climateFootprint": 4.1,
+        "info": "Per kg benfritt kött, ej tillagat"
+    },
+    {
+        "food": "Kyckling",
+        "origin": "Sverige",
+        "climateFootprint": 2.6,
+        "info": "Per kg benfritt kött, ej tillagat"
+    },
+    {
+        "food": "Köttfärs, 50% nöt, 50% gris",
+        "origin": "Sverige",
+        "climateFootprint": 16,
+        "info": "Per kg benfritt kött, ej tillagat"
+    },
+    {
+        "food": "Ägg",
+        "origin": "Sverige",
+        "climateFootprint": 1.1,
+        "info": "Per kg ägg med skal"
+    },
+    {
+        "food": "Lax",
+        "origin": "Norge",
+        "climateFootprint": 6.1,
+        "info": "Per kg filé, ej tillagad"
+    },
+    {
+        "food": "Sej",
+        "origin": "Norge",
+        "climateFootprint": 1.5,
+        "info": "Per kg filé, ej tillagad"
+    },
+    {
+        "food": "Sill",
+        "origin": "Norge",
+        "climateFootprint": 0.8,
+        "info": "Per kg filé, ej tillagad"
+    },
+    {
+        "food": "Blåmusslor, odlade",
+        "origin": "Norge",
+        "climateFootprint": 1.3,
+        "info": "Per kg kokta musslor utan skal"
+    },
+    {
+        "food": "Bruna bönor, torkade",
+        "origin": "Sverige",
+        "climateFootprint": 0.5,
+        "info": "Per kg torkade bönor"
+    },
+    {
+        "food": "Kikärter, torkade",
+        "origin": "Kanada",
+        "climateFootprint": 0.6,
+        "info": "Per kg torkade kikärter"
+    },
+    {
+        "food": "Linser, torkade",
+        "origin": "Kanada",
+        "climateFootprint": 0.5,
+        "info": "Per kg torkade linser"
+    },
+    {
+        "food": "Quorn",
+        "origin": "Storbritannien",
+        "climateFootprint": 1.7,
+        "info": "Per kg quornfärs"
+    },
+    {
+        "food": "Potatis",
+        "origin": "Sverige",
+        "climateFootprint": 0.1,
+        "info": "Per kg oskalad potatis"
+    },
+    {
+        "food": "Spagetti",
+        "origin": "Sverige",
+        "climateFootprint": 0.8,
+        "info": "Per kg okokt spagetti"
+    },
+    {
+        "food": "Matvete",
+        "origin": "Sverige",
+        "climateFootprint": 0.5,
+        "info": "Per kg oskalad matvete"
+    },
+    {
+        "food": "Jasminris",
+        "origin": "Thailand",
+        "climateFootprint": 3.1,
+        "info": "Per kg okokt ris"
+    },
+    {
+        "food": "Mjukt bröd, vete",
+        "origin": "Sverige",
+        "climateFootprint": 0.5,
+        "info": "Per kg bröd"
+    },
+    {
+        "food": "Knäckebröd, vete",
+        "origin": "Sverige",
+        "climateFootprint": 0.3,
+        "info": "Per kg knäckebröd"
+    },
+    {
+        "food": "Mellanmjölk",
+        "origin": "Sverige",
+        "climateFootprint": 0.9,
+        "info": "Per liter mjölk"
+    },
+    {
+        "food": "Lätt crème fraiche, 17% fett",
+        "origin": "Sverige",
+        "climateFootprint": 2.2,
+        "info": "Per kg crème fraiche"
+    },
+    {
+        "food": "Grädde, 40% fett",
+        "origin": "Sverige",
+        "climateFootprint": 4.2,
+        "info": "Per kg grädde"
+    },
+    {
+        "food": "Smör",
+        "origin": "Sverige",
+        "climateFootprint": 8.0,
+        "info": "Per kg smör"
+    },
+    {
+        "food": "Ost, 31% fett",
+        "origin": "Sverige",
+        "climateFootprint": 5.3,
+        "info": "Per kg ost"
+    },
+    {
+        "food": "Äpple",
+        "origin": "Sverige",
+        "climateFootprint": 0.2,
+        "info": "Per kg äpple med skal"
+    },
+    {
+        "food": "Apelsin, med skal",
+        "origin": "Sydeuropa",
+        "climateFootprint": 0.5,
+        "info": "Per kg apelsin med skal"
+    },
+    {
+        "food": "Banan, med skal",
+        "origin": "Costa Rica",
+        "climateFootprint": 0.7,
+        "info": "Per kg banan med skal"
+    },
+    {
+        "food": "Jordgubbar",
+        "origin": "Sverige",
+        "climateFootprint": 0.3,
+        "info": "Per kg jordgubbar"
+    },
+    {
+        "food": "Gul lök, med skal",
+        "origin": "Sverige",
+        "climateFootprint": 0.1,
+        "info": "Per kg lök med skal"
+    },
+    {
+        "food": "Spenat, färst",
+        "origin": "Sverige",
+        "climateFootprint": 0.3,
+        "info": "Per kg färst spenat"
+    },
+    {
+        "food": "Gröna ärtor",
+        "origin": "Sverige",
+        "climateFootprint": 0.3,
+        "info": "Per kg ärtor"
+    },
+    {
+        "food": "Tomat, växthus uppvärmt med hög andel förnybar energi",
+        "origin": "Sverige",
+        "climateFootprint": 0.2,
+        "info": "Per kg tomat"
+    },
+    {
+        "food": "Isbergssallad",
+        "origin": "Sverige",
+        "climateFootprint": 0.2,
+        "info": "Per kg sallad"
+    },
+    {
+        "food": "Vetemjöl",
+        "origin": "Sverige",
+        "climateFootprint": 0.4,
+        "info": "Per kg mjöl"
+    },
+    {
+        "food": "Socker",
+        "origin": "Sverige",
+        "climateFootprint": 0.7,
+        "info": "Per kg socker"
+    },
+    {
+        "food": "Margarin, 40% fett",
+        "origin": "Sverige",
+        "climateFootprint": 1.1,
+        "info": "Per kg margarin"
+    },
+    {
+        "food": "Sötmandel",
+        "origin": "USA",
+        "climateFootprint": 2.6,
+        "info": "Per kg mandel utan skal"
+    },
+    {
+        "food": "Rapsolja",
+        "origin": "Sverige",
+        "climateFootprint": 1.4,
+        "info": "Per kg rapsolja"
+    },
+    {
+        "food": "Choklad, mörk",
+        "origin": "Sverige/Ghana",
+        "climateFootprint": 0.8,
+        "info": "Per kg mörk choklad"
+    },
+    {
+        "food": "Bryggkaffe",
+        "origin": "Brasilien/Sverige",
+        "climateFootprint": 0.2,
+        "info": "Per liter bryggt kaffe"
+    },
+    {
+        "food": "Apelsinjuice",
+        "origin": "Brasilien/Sverige",
+        "climateFootprint": 0.6,
+        "info": "Per liter apelsinjuice"
+    },
+    {
+        "food": "Läsk",
+        "origin": "Sverige",
+        "climateFootprint": 0.1,
+        "info": "Per liter läsk"
+    },
+    {
+        "food": "Öl",
+        "origin": "Europa, snitt flera länder",
+        "climateFootprint": 0.7,
+        "info": "Per liter öl"
+    }
+]
